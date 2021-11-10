@@ -20,4 +20,4 @@ Explanation of repository.
 ### Who do I talk to? ###
 
 * Thomas Dodd
-* thomas.hojlunddodd@kellogg.ox.ac.uk
+* tjh98@cam.ac.uk
